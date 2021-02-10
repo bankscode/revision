@@ -1,7 +1,8 @@
 
 a{
   color:#11999E;
-  font-family: 'Montserrat' sans-serif;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
 }
 body{
   margin: 0;
@@ -89,8 +90,6 @@ margin-bottom: 50px;}
 }
 .footer-link{
   margin-right:50px;
-  color:#11999E;
-  text-decoration: none;
 }
 .footer-link:hover{
   color:#EAF6F6;
